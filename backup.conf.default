@@ -1,0 +1,8 @@
+[backup]
+source_path = /path/to/source/folder
+backup_path = /path/to/backup/folder
+
+[timeframes]
+backup_retention_time = 90d
+second_stage_backup_interval = 7d
+
